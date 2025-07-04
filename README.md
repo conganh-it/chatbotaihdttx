@@ -94,4 +94,4 @@ python main.py
 Hoan nghênh PR, issue, góp týnh năng hay dataset mớ rộng chatbot.
 
 ## Giấy phép
-Mã nguồn mở MIT
+Mã nguồn mở MIT,
