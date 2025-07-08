@@ -85,6 +85,10 @@ python main.py
 - `OLLAMA_LLM_MODEL`: "mistral"
 - `CHUNK_SIZE`, `CHUNK_OVERLAP`
 
+## Sơ đồ kiến trúc
+
+![imgcautruc.png](img%2Fimgcautruc.png)
+
 ## Khắc phục sự cố
 - `ModuleNotFoundError`: Thiếu gói → `pip install -r requirements.txt`
 - `ConnectionRefused`: Ollama chưa chạy hoặc chưa pull model
